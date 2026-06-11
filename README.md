@@ -42,7 +42,7 @@ The models were trained on power traces to classify the Hamming Weight of AES S-
 
 ## Sample Power Trace
 
-![Power Trace](figures/Power_Trace.png)
+![Power Trace](figures/Power_Trace_Sample.png)
 
 ---
 
@@ -64,7 +64,7 @@ The models were trained on power traces to classify the Hamming Weight of AES S-
 
 ## Project Report
 
-The complete project report is available in **report.pdf**.
+📄 [Project Report (PDF)](report.pdf)
 
 ---
 
